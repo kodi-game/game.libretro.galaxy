@@ -15,7 +15,7 @@
 		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<license></license>
+		<license>Unlicensed</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.galaxy</source>
 		<summary lang="en_GB">Galaxy</summary>

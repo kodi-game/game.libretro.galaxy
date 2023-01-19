@@ -9,7 +9,7 @@ Galaxy is a libretro emulation backend for the Galaksija retro computer.
 
 ### License
 
-
+Unlicensed
 
 ### Icon
 
