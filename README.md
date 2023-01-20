@@ -13,7 +13,7 @@ Unlicensed
 
 ### Icon
 
-Help make me an icon!
+![Icon](game.libretro.galaxy/resources/icon.png)
 
 ### Fanart
 
@@ -22,3 +22,7 @@ Help make me fanart!
 ### Screenshots
 
 Help make me screenshots!
+
+### Disclaimer
+
+*Image credit: Wikipedia*

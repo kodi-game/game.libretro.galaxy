@@ -18,6 +18,9 @@
 		<license>Unlicensed</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.galaxy</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
 		<summary lang="en_GB">Galaxy</summary>
 		<description lang="en_GB">Galaxy is a libretro emulation backend for the Galaksija retro computer.</description>
 		<disclaimer lang="en_GB">Image credit: Wikipedia</disclaimer>
