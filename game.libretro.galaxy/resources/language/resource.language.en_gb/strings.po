@@ -21,9 +21,9 @@ msgid "Galaxy"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Galaxy is a libretro emulation backend for the Galaksija retro computer."
+msgid "Galaxy emulates the [I]Galaksija[/I] built-it-yourself computer designed by Voja Antonićin in Yogoslavia in 1983."
 msgstr ""
 
 msgctxt "Addon Disclaimer"
-msgid "Image credit: Wikipedia"
+msgid "Image credit: Tomaž Šolc"
 msgstr ""
