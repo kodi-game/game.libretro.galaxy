@@ -5,7 +5,7 @@
 
 ### Description
 
-Galaxy is a libretro emulation backend for the Galaksija retro computer.
+Galaxy emulates the *Galaksija* built-it-yourself computer designed by Voja Antonićin in Yogoslavia in 1983.
 
 ### License
 
@@ -25,4 +25,4 @@ Help make me screenshots!
 
 ### Disclaimer
 
-*Image credit: Wikipedia*
+*Image credit: Tomaž Šolc*
