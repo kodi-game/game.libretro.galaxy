@@ -17,7 +17,7 @@ Unlicensed
 
 ### Fanart
 
-Help make me fanart!
+![Fanart](game.libretro.galaxy/resources/fanart.jpg)
 
 ### Screenshots
 
