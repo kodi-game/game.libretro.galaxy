@@ -20,5 +20,6 @@
 		<source>https://github.com/kodi-game/game.libretro.galaxy</source>
 		<summary lang="en_GB">Galaxy</summary>
 		<description lang="en_GB">Galaxy is a libretro emulation backend for the Galaksija retro computer.</description>
+		<disclaimer lang="en_GB">Image credit: Widipedia</disclaimer>
 	</extension>
 </addon>
