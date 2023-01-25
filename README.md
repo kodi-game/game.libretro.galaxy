@@ -13,11 +13,11 @@ Unlicensed
 
 ### Icon
 
-![Icon](game.libretro.galaxy/resources/icon.png)
+![Galaxy icon](game.libretro.galaxy/resources/icon.png)
 
 ### Fanart
 
-![Fanart](game.libretro.galaxy/resources/fanart.jpg)
+![Galaxy fanart](game.libretro.galaxy/resources/fanart.jpg)
 
 ### Screenshots
 
