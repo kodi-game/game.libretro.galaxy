@@ -29,10 +29,12 @@
 		<description lang="en_GB">Galaxy emulates the [I]Galaksija[/I] built-it-yourself computer designed by Voja Antonićin in Yogoslavia in 1983.</description>
 		<description lang="es_ES">Galaxy emula el ordenador de construcción propia [I]Galaksija[/I] diseñado por Voja Antonićin en Yugoslavia en 1983.</description>
 		<description lang="fr_FR">Galaxy émule l&apos;ordinateur à monter soi-même [I]Galaksija[/I] conçu par Voja Antonićin à Yogoslavia en 1983.</description>
+		<description lang="it_IT">Galaxy emula il computer fai-da-te [I]Galaksija[/I] progettato da Voja Antonićin in Yugoslavia nel 1983.</description>
 		<disclaimer lang="da_DK">Billedkreditering: Tomaž Šolc</disclaimer>
 		<disclaimer lang="de_DE">Bildnachweis: Tomaž Šolc</disclaimer>
 		<disclaimer lang="en_GB">Image credit: Tomaž Šolc</disclaimer>
 		<disclaimer lang="es_ES">Créditos de la imagen: Tomaž Šolc</disclaimer>
 		<disclaimer lang="fr_FR">Crédit image : Tomaž Šolc</disclaimer>
+		<disclaimer lang="it_IT">Credito immagine: Tomaž Šolc</disclaimer>
 	</extension>
 </addon>
