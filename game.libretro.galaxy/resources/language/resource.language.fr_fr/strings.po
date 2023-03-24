@@ -18,8 +18,8 @@ msgstr ""
 "X-Generator: Weblate 4.15.2\n"
 
 msgctxt "Addon Summary"
-msgid "Galaxy"
-msgstr "Galaxy"
+msgid "galaksija"
+msgstr ""
 
 msgctxt "Addon Description"
 msgid "Galaxy emulates the [I]Galaksija[/I] built-it-yourself computer designed by Voja Antonićin in Yogoslavia in 1983."
@@ -28,3 +28,7 @@ msgstr "Galaxy émule l'ordinateur à monter soi-même [I]Galaksija[/I] conçu p
 msgctxt "Addon Disclaimer"
 msgid "Image credit: Tomaž Šolc"
 msgstr "Crédit image : Tomaž Šolc"
+
+#~ msgctxt "Addon Summary"
+#~ msgid "Galaxy"
+#~ msgstr "Galaxy"
