@@ -22,6 +22,7 @@
 			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
 		</assets>
+		<summary lang="da_DK">galaksija</summary>
 		<summary lang="en_GB">galaksija</summary>
 		<summary lang="es_ES">galaksija</summary>
 		<description lang="da_DK">Galaxy emulerer [I]Galaksija[/I] hjemmebyg-computeren designet af Voja Antonićin i Jugoslavien i 1983.</description>
