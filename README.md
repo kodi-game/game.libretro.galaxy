@@ -1,4 +1,4 @@
-# Galaxy
+# Galaksija (galaxy-libretro)
 
 ### Description
 
@@ -6,15 +6,15 @@ Galaxy emulates the *Galaksija* built-it-yourself computer designed by Voja Anto
 
 ### License
 
-Unlicensed
+Public Domain
 
 ### Icon
 
-![Galaxy icon](game.libretro.galaxy/resources/icon.png)
+![Galaksija (galaxy-libretro) icon](game.libretro.galaxy/resources/icon.png)
 
 ### Fanart
 
-![Galaxy fanart](game.libretro.galaxy/resources/fanart.jpg)
+![Galaksija (galaxy-libretro) fanart](game.libretro.galaxy/resources/fanart.jpg)
 
 ### Screenshots
 

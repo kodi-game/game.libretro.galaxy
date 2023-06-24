@@ -13,5 +13,5 @@ Section: libs
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}, kodi, kodi-game-libretro
 Enhances: kodi
-Description: Galaxy core for kodi's retroplayer
- Galaxy core for kodi's retroplayer
+Description: Galaksija (galaxy-libretro) core for kodi's retroplayer
+ Galaksija (galaxy-libretro) core for kodi's retroplayer

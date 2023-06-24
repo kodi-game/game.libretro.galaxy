@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.galaxy"
-		name="Galaxy"
-		version="0.1.0.7"
-		provider-name="Libretro">
+		name="Galaksija (galaxy-libretro)"
+		version="0.1.0.8"
+		provider-name="nikp123">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 	</requires>
@@ -15,7 +15,7 @@
 		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<license>Unlicensed</license>
+		<license>Public Domain</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.galaxy</source>
 		<assets>
@@ -23,7 +23,7 @@
 			<fanart>resources/fanart.jpg</fanart>
 		</assets>
 		<summary lang="da_DK">galaksija</summary>
-		<summary lang="en_GB">galaksija</summary>
+		<summary lang="en_GB">Galaksija (galaxy-libretro)</summary>
 		<summary lang="es_ES">galaksija</summary>
 		<summary lang="zh_CN">银河系</summary>
 		<description lang="da_DK">Galaxy emulerer [I]Galaksija[/I] hjemmebyg-computeren designet af Voja Antonićin i Jugoslavien i 1983.</description>
