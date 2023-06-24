@@ -22,10 +22,7 @@
 			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
 		</assets>
-		<summary lang="da_DK">galaksija</summary>
 		<summary lang="en_GB">Galaksija (galaxy-libretro)</summary>
-		<summary lang="es_ES">galaksija</summary>
-		<summary lang="zh_CN">银河系</summary>
 		<description lang="da_DK">Galaxy emulerer [I]Galaksija[/I] hjemmebyg-computeren designet af Voja Antonićin i Jugoslavien i 1983.</description>
 		<description lang="de_DE">Galaxy emuliert den Computer zum Selbstbau [I]Galaksija[/I], der 1983 von Voja Antonićin in Jugoslawien entwickelt wurde.</description>
 		<description lang="en_GB">Galaxy emulates the [I]Galaksija[/I] built-it-yourself computer designed by Voja Antonićin in Yogoslavia in 1983.</description>
