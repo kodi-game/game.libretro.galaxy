@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.galaxy"
 		name="Galaksija (galaxy-libretro)"
-		version="0.1.0.11"
+		version="0.1.0.12"
 		provider-name="nikp123">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
