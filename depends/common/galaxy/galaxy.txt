@@ -1,1 +1,1 @@
-galaxy https://github.com/libretro/galaxy-libretro/archive/6d620b995a68ea7ce9d7643f3d46559ab4860790.tar.gz
+galaxy https://github.com/libretro/galaxy-libretro/archive/13ae71a99a7c726765229ab2cccbec2696761399.tar.gz
