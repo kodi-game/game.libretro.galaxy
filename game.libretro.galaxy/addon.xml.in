@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.galaxy"
-		name="Galaksija (galaxy-libretro)"
+		name="Elektronika Inženjering - Galaksija (Galaksija)"
 		version="0.1.0.15"
 		provider-name="nikp123">
 	<requires>
@@ -23,7 +23,7 @@
 			<fanart>resources/fanart.jpg</fanart>
 		</assets>
 		<summary lang="da_DK">Galaksija (galaxy-libretro)</summary>
-		<summary lang="en_GB">Galaksija (galaxy-libretro)</summary>
+		<summary lang="en_GB">Elektronika Inženjering - Galaksija (Galaksija)</summary>
 		<summary lang="es_ES">Galaksija (galaxy-libretro)</summary>
 		<summary lang="it_IT">Galaksija (galaxy-libretro)</summary>
 		<summary lang="sv_SE">Galaksija (galaxy-libretro)</summary>

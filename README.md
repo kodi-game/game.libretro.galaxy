@@ -1,4 +1,4 @@
-# Galaksija (galaxy-libretro)
+# Elektronika Inženjering - Galaksija (Galaksija)
 
 ### Description
 
@@ -10,11 +10,11 @@ Public Domain
 
 ### Icon
 
-![Galaksija (galaxy-libretro) icon](game.libretro.galaxy/resources/icon.png)
+![Elektronika Inženjering - Galaksija (Galaksija) icon](game.libretro.galaxy/resources/icon.png)
 
 ### Fanart
 
-![Galaksija (galaxy-libretro) fanart](game.libretro.galaxy/resources/fanart.jpg)
+![Elektronika Inženjering - Galaksija (Galaksija) fanart](game.libretro.galaxy/resources/fanart.jpg)
 
 ### Screenshots
 
