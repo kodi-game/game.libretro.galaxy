@@ -22,18 +22,14 @@
 			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
 		</assets>
-		<summary lang="da_DK">Galaksija (galaxy-libretro)</summary>
 		<summary lang="en_GB">Elektronika Inženjering - Galaksija (Galaksija)</summary>
-		<summary lang="es_ES">Galaksija (galaxy-libretro)</summary>
-		<summary lang="it_IT">Galaksija (galaxy-libretro)</summary>
-		<summary lang="sv_SE">Galaksija (galaxy-libretro)</summary>
-		<summary lang="zh_CN">Galaksija （galaxy-libretro）</summary>
 		<description lang="da_DK">Galaxy emulerer [I]Galaksija[/I] hjemmebyg-computeren designet af Voja Antonićin i Jugoslavien i 1983.</description>
 		<description lang="de_DE">Galaxy emuliert den Computer zum Selbstbau [I]Galaksija[/I], der 1983 von Voja Antonićin in Jugoslawien entwickelt wurde.</description>
 		<description lang="en_GB">Galaxy emulates the [I]Galaksija[/I] built-it-yourself computer designed by Voja Antonićin in Yogoslavia in 1983.</description>
 		<description lang="es_ES">Galaxy emula el ordenador de construcción propia [I]Galaksija[/I] diseñado por Voja Antonićin en Yugoslavia en 1983.</description>
 		<description lang="fr_FR">Galaxy émule l&apos;ordinateur à monter soi-même [I]Galaksija[/I] conçu par Voja Antonićin à Yogoslavia en 1983.</description>
 		<description lang="it_IT">Galaxy emula il computer fai-da-te [I]Galaksija[/I] progettato da Voja Antonićin in Yugoslavia nel 1983.</description>
+		<description lang="ru_RU">Galaxy эмулирует собранный своими руками компьютер [I]Galaksija[/I], разработанный Войей Антоничиным в Югославии в 1983 году.</description>
 		<description lang="sv_SE">Galaxy emulerar den hemmabyggda datorn [I]Galaksija[/I] som designades av Voja Antonićin i Jugoslavien 1983.</description>
 		<description lang="zh_CN">Galaxy 仿真1983年由 Voja Antonićin 在 Yogoslavia 设计的 DIY 计算机 [I]Galaksija[/I]。</description>
 		<disclaimer lang="da_DK">Billedkreditering: Tomaž Šolc</disclaimer>
@@ -42,6 +38,7 @@
 		<disclaimer lang="es_ES">Créditos de la imagen: Tomaž Šolc</disclaimer>
 		<disclaimer lang="fr_FR">Crédit image : Tomaž Šolc</disclaimer>
 		<disclaimer lang="it_IT">Credito immagine: Tomaž Šolc</disclaimer>
+		<disclaimer lang="ru_RU">Автор значка: Tomaž Šolc</disclaimer>
 		<disclaimer lang="sv_SE">Bild: Tomaž Šolc</disclaimer>
 		<disclaimer lang="zh_CN">图片来源：TomažŠolc</disclaimer>
 	</extension>
