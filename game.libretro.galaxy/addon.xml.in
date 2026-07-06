@@ -23,6 +23,7 @@
 			<icon>resources/icon.png</icon>
 			<fanart>resources/fanart.jpg</fanart>
 		</assets>
+		<summary lang="cs_CZ">Elektronika Inženjering - Galaksija (Galaksija)</summary>
 		<summary lang="en_GB">Elektronika Inženjering - Galaksija (Galaksija)</summary>
 		<summary lang="es_ES">Elektronika Inženjering - Galaksija (Galaksija)</summary>
 		<summary lang="ga">Elektronika Inženjering - Galaksija (Galaksija)</summary>
@@ -31,6 +32,7 @@
 		<summary lang="sv_SE">Elektronika Inženjering - Galaksija (Galaksija)</summary>
 		<summary lang="zh_CN">电子工程 - 银河模拟器 (Galaksija)</summary>
 		<description lang="ca_ES">Galaxy emula l&apos;ordinador casolà [I]Galaksija[/I] dissenyat per Voja Antonićin a Iugoslàvia el 1983.</description>
+		<description lang="cs_CZ">Galaxy emuluje počítač [I]Galaksija[/I] určený pro svépomocné sestavení, který navrhl Voja Antonić v Jugoslávii v roce 1983.</description>
 		<description lang="da_DK">Galaxy emulerer [I]Galaksija[/I] hjemmebyg-computeren designet af Voja Antonićin i Jugoslavien i 1983.</description>
 		<description lang="de_DE">Galaxy emuliert den Computer zum Selbstbau [I]Galaksija[/I], der 1983 von Voja Antonićin in Jugoslawien entwickelt wurde.</description>
 		<description lang="en_GB">Galaxy emulates the [I]Galaksija[/I] built-it-yourself computer designed by Voja Antonićin in Yogoslavia in 1983.</description>
@@ -42,6 +44,7 @@
 		<description lang="sv_SE">Galaxy emulerar den hemmabyggda datorn [I]Galaksija[/I] som designades av Voja Antonićin i Jugoslavien 1983.</description>
 		<description lang="zh_CN">Galaxy 仿真1983年由 Voja Antonićin 在 Yogoslavia 设计的 DIY 计算机 [I]Galaksija[/I]。</description>
 		<disclaimer lang="ca_ES">Crèdit de la imatge: Tomaž Šolc</disclaimer>
+		<disclaimer lang="cs_CZ">Autor obrázku: Tomaž Šolc</disclaimer>
 		<disclaimer lang="da_DK">Billedkreditering: Tomaž Šolc</disclaimer>
 		<disclaimer lang="de_DE">Bildnachweis: Tomaž Šolc</disclaimer>
 		<disclaimer lang="en_GB">Image credit: Tomaž Šolc</disclaimer>
